@@ -1,0 +1,1 @@
+{"description":"SwiftMark w3: a single-pass streaming Markdown renderer that walks the source once with an explicit cursor, dispatching block constructs at each boundary and scanning inline markup in place, with no intermediate whole-document token array.","name":"swiftmark-w3","private":true,"type":"module"}
